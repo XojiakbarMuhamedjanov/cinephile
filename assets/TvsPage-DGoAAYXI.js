@@ -1,0 +1,1 @@
+import{_ as t}from"./Content-vMEjZq1T.js";import{c as a,a as e,o as s,r as n}from"./index-CAXk9ZOQ.js";const r={class:"main"},l={__name:"TvsPage",setup(c){return(_,m)=>{const o=n("Footer");return s(),a("main",r,[e(t,{type:"tv"}),e(o)])}}};export{l as default};
